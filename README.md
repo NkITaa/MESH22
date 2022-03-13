@@ -1,6 +1,6 @@
 # Titel der Solution
 
-Greenscore
+GreenGiro
 
 # Slogan der Solution
 
