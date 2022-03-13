@@ -10,13 +10,19 @@ class Bon extends StatelessWidget {
         backgroundColor: Colors.red,
         title: Text("Bon - 04.03.2022"),
       ),
-      body: ListView(children: [Container(
-        width: MediaQuery.of(context).size.width,
-        color: Colors.white,
-        child: FittedBox(
-          child: Image.asset('assets/Bon.png'),
-          fit: BoxFit.fill,
-        ),
+      body: ListView(children: [Column(
+        children: [
+          Container(
+            width: MediaQuery.of(context).size.width,
+
+            height: MediaQuery.of(context).size.height * 1.5,
+            color: Colors.white,
+            child: FittedBox(
+              child: Image.asset('assets/Bon.png'),
+              fit: BoxFit.fill,
+            ),
+          ),
+        ],
       )]),
     );
   }
