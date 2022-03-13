@@ -13,4 +13,4 @@ je nach gewünschtem Betriebssystem installiert werden.
 
 # Name des Teams und der einzelnen Teammitglieder
 
-Teamname / Teammitglieder*innen
+JnJ @ GreenGiro
