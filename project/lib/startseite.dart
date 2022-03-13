@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:untitled/ESG-Verzeichnis.dart';
 
+import 'ESG-Verzeichnis.dart';
 import 'greenscore.dart';
 
 class Startseite extends StatelessWidget {
@@ -114,7 +114,7 @@ class Startseite extends StatelessWidget {
                   width: MediaQuery.of(context).size.width * 0.9,
                   height: MediaQuery.of(context).size.width * 0.09,
                   decoration: BoxDecoration(
-                      color: Colors.black,
+                      color: Colors.white,
                       borderRadius: BorderRadius.only(
                         topLeft: Radius.circular(10.0),
                         topRight: Radius.circular(10.0),
@@ -133,7 +133,7 @@ class Startseite extends StatelessWidget {
                 Container(
                   width: MediaQuery.of(context).size.width * 0.9,
                   decoration: BoxDecoration(
-                      color: Colors.black,
+                      color: Colors.white,
                       borderRadius: BorderRadius.only(
                         bottomRight: Radius.circular(10.0),
                         bottomLeft: Radius.circular(10.0),

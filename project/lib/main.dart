@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:untitled/startseite.dart';
+
+import 'startseite.dart';
 
 void main() {
   runApp(const MyApp());
