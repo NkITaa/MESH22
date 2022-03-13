@@ -1,16 +1,15 @@
-# untitled
+#Titel der Solution
 
-A new Flutter project.
+Greenscore
 
-## Getting Started
+# Slogan der Solution
 
-This project is a starting point for a Flutter application.
+Mit egoistischem Handeln die Umwelt schützen!
 
-A few resources to get you started if this is your first Flutter project:
+# Kurzbeschreibung der Solution und PowerPoint-Präsentation mit den Schlüsselbotschaften
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Solution / Prototyp Link / Documentation / Beschreibung
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Name des Teams und der einzelnen Teammitglieder
+
+Teamname / Teammitglieder*innen
