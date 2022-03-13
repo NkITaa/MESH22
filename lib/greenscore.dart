@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'bon.dart';
+
 class Greenscore extends StatelessWidget {
   const Greenscore({Key? key}) : super(key: key);
 
@@ -43,13 +45,19 @@ class Greenscore extends StatelessWidget {
                   color: Colors.white,
                   child: Center(child: Text("Neue Transaktionen"))),
               Container(height: MediaQuery.of(context).size.width * 0.02),
-              Container(
-                height: MediaQuery.of(context).size.width * 0.14,
-                width: MediaQuery.of(context).size.width,
-                color: Colors.white,
-                child: FittedBox(
-                  child: Image.asset('assets/REWE.png'),
-                  fit: BoxFit.fill,
+              GestureDetector(
+                onTap: () {
+                  Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => Bon()));
+                },
+                child: Container(
+                  height: MediaQuery.of(context).size.width * 0.14,
+                  width: MediaQuery.of(context).size.width,
+                  color: Colors.white,
+                  child: FittedBox(
+                    child: Image.asset('assets/REWE.png'),
+                    fit: BoxFit.fill,
+                  ),
                 ),
               ),
               Container(height: MediaQuery.of(context).size.width * 0.02),
