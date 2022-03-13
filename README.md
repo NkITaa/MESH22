@@ -14,3 +14,5 @@ je nach gewünschtem Betriebssystem installiert werden.
 # Name des Teams und der einzelnen Teammitglieder
 
 JnJ @ GreenGiro
+
+Justin Bullach, Nikita Reichert, Johannes Thran
